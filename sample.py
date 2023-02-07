@@ -1,3 +1,1 @@
-"Hello, World!"
-a=12
-b=13
+a=13
